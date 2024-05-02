@@ -272,6 +272,17 @@ Apr 30 11:44:59 MonSrv /etc/mysql/debian-start[1837]: Upgrading MySQL tables if 
 
 ```
 
+### Installation de PHP
+```bash
+[Input]
+
+
+
+[Output]
+```
+
+
+
 ## Etape 3 Installation d'Icinga 2
 
 ### Utilisation des repositories officiel d'icinga 2 pour Debian
